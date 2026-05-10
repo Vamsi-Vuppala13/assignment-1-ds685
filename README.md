@@ -8,7 +8,7 @@ This repository contains my completed work for Robotics Assignment 1. The main g
 
 For this assignment, I completed the ROS setup and verified that the required simulation tools were working properly. I launched the TurtleBot maze world and checked the robot visualization in both Gazebo and RViz2.
 
-The screenshots in this repository show the setup process, terminal outputs, Gazebo simulation, and RViz2 visualization.
+The screenshots in this repository show the terminal list, Gazebo simulation, and RViz2 visualization.
 
 ## Tools and Technologies Used
 
