@@ -20,13 +20,3 @@ The screenshots in this repository show the terminal list, Gazebo simulation, an
 - TurtleBot simulation
 - Terminal / Command Line
 
-## Repository Contents
-
-```text
-.
-├── README.md
-└── screenshots/
-    ├── ros_cli_setup.png
-    ├── docker_output.png
-    ├── gazebo_maze_world.png
-    └── rviz2_maze_world.png
